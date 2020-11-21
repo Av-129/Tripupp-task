@@ -123,6 +123,10 @@ border-radius: 20px;
 	box-shadow: 5px 5px 10px #999;
 	transition: 0.3s !important;
 }
+.fa-angle-right:before{
+
+color: #fff;
+  }
 a.btn-first{
 	margin-left: 0;
 }
@@ -148,6 +152,10 @@ a.btn-first{
   width: 50%;
   border-radius: 50%;
 }
+.fa-angle-right:before{
+
+color: #fff;
+  }
 .xyz{
 		width: 100%;
 		height: auto;
@@ -165,6 +173,10 @@ a.btn-first{
   text-align: center;
   left: 50%;
 }
+.fa-angle-right:before{
+
+color: #fff;
+  }
 .xyz{
 		width: 100%;
 		height: auto;
